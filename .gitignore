@@ -19,3 +19,5 @@
 *.exe
 *.out
 *.app
+PandaFLAC_File_Import/x64/Debug/
+PandaFLAC_File_Import/x64/Release/
